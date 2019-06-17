@@ -6,7 +6,7 @@ The program `sudoky_solver.py` is an implementation of an evolutionary algorithm
 
 The puzzle should be in a format where:
 * Empty cells are full stops '.'
-* The character '!'is a semantic column separator
+* The character '!' is a semantic column separator
 *	The string '---!---!---' is a semantic row separator. <br>
 
 See `example.txt` for an example of a Sudoky puzzle.
